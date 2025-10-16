@@ -148,5 +148,3 @@ O programa gera uma representação visual do grafo mostrando:
 - **Espaço**: O(V) para armazenar vértices visitados e fila de busca
 
 ---
-
-*Desenvolvido como parte dos estudos em Algoritmos e Estruturas de Dados*
